@@ -49,9 +49,9 @@ if porridge == &amp;quot;blueberry&amp;quot;:
 &lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
 &lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
 &lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
+&lt;h1 id=&#34;heading&#34;&gt;$$&lt;/h1&gt;
+&lt;h1 id=&#34;fleft-x-right--frac2left-x--4-rightleft-x---4-rightleft-x--4-rightleft-x--1-right&#34;&gt;f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}&lt;/h1&gt;
+&lt;h1 id=&#34;heading-1&#34;&gt;$$&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
