@@ -10,10 +10,10 @@ education:
   - course: Master in Urban Planning
     institution: University of Illinois at Urbana Champaign
     year: 2012
-  - course: Master in Engineering
+  - course: ME in Architecture
     institution: Seoul National University
     year: 2008
-  - course: Bachelor in Engineering
+  - course: BE in Architecture
     institution: Seoul National University
     year: 2003
 email: "mailto:yongsung.lee@gatech.edu"
@@ -49,4 +49,4 @@ user_groups:
 - Visitors
 ---
 
-Yongsung Lee is a postdoctoral fellow of Civil and Environmental Engineering at the Georgia Institute of Technology. He studies emerging mobility services and technology, with a focus on environmental sustainability and social equity. In addition, he teaches [open-source GIS](https://rpubs.com/spring19cp6521) and [data visualization](https://public.tableau.com/profile/yongsung.lee#!/).
+I am currently working as a postdoc in the School of Civil and Environmental Engineering at Georgia Tech. My research focuses on emerging mobility services and technology, and I am particularly interested to know their implications to environmental sustainability and social equity. I have rich experience in teaching GIS and quantitiatve method courses, and I recently taught [open-source GIS with `R`](https://rpubs.com/spring19cp6521) and [data visualization with Tableau](https://public.tableau.com/profile/yongsung.lee#!/).
