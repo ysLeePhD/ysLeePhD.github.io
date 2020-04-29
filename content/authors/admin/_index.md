@@ -49,4 +49,4 @@ user_groups:
 - Visitors
 ---
 
-Yongsung Lee is a postdoctoral fellow of Civil and Environmental Engineering at the Georgia Institute of Technology. He studies emerging mobility services and technology, with a focus on environmental and social implications, and he teaches [open-source GIS](https://rpubs.com/spring19cp6521) and [data visualization](https://public.tableau.com/profile/yongsung.lee#!/).
+Yongsung Lee is a postdoctoral fellow of Civil and Environmental Engineering at the Georgia Institute of Technology. He studies emerging mobility services and technology, with a focus on environmental sustainability and social equity. In addition, he teaches [open-source GIS](https://rpubs.com/spring19cp6521) and [data visualization](https://public.tableau.com/profile/yongsung.lee#!/).
