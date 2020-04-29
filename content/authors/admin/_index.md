@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include emerging mobility services & technology, urban informatics and machine learning, and sustainable development. 
+bio: My research interests include emerging mobility services & technology, urban informatics & machine learning, and sustainable development. 
 education:
   courses:
   - course: PhD in City & Regional Planning
@@ -10,10 +10,10 @@ education:
   - course: Master in Urban Planning
     institution: University of Illinois at Urbana Champaign
     year: 2012
-  - course: ME in Architecture
+  - course: MEng in Architecture
     institution: Seoul National University
     year: 2008
-  - course: BE in Architecture
+  - course: BEng in Architecture
     institution: Seoul National University
     year: 2003
 email: "mailto:yongsung.lee@gatech.edu"
@@ -49,4 +49,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently working as a postdoc in the School of Civil and Environmental Engineering at Georgia Tech. My research focuses on emerging mobility services and technology, and I am particularly interested to know their implications to environmental sustainability and social equity. I have rich experience in teaching GIS and quantitiatve method courses, and I recently taught [open-source GIS with `R`](https://rpubs.com/spring19cp6521) and [data visualization with Tableau](https://public.tableau.com/profile/yongsung.lee#!/).
+I am a postdoc in the School of Civil & Environmental Engineering at Georgia Tech. My research focuses on emerging mobility services and technology, and I am particularly interested in their implications to environmental sustainability and social equity. I have rich experience in teaching GIS and quantitiatve method courses, and recently I taught [open-source GIS with `R`](https://rpubs.com/spring19cp6521) and [data visualization with Tableau](https://public.tableau.com/profile/yongsung.lee#!/).
