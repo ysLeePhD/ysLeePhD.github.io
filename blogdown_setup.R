@@ -15,3 +15,5 @@ blogdown::new_post()
 # 301 Redirect: The Most Important Technique in Maintaining Websites
 # https://yihui.org/en/2017/11/301-redirect/
 
+# Setting Up Google Analytics on Hugo
+# http://cloudywithachanceofdevops.com/posts/2018/05/17/setting-up-google-analytics-on-hugo/
