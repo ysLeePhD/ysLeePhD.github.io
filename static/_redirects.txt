@@ -1,0 +1,2 @@
+https://yongsung.netlify.app/*  https://yongsung.rbind.io/:splat  301!http://yongsung.netlify.app/*   https://yongsung.rbind.io/:splat  301!
+http://yongsung.rbind.io/*      https://yongsung.rbind.io/:splat  301!

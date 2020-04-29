@@ -5,10 +5,10 @@ bio: My research interests include emerging mobility services & technology, urba
 education:
   courses:
   - course: PhD in City & Regional Planning
-    institution: Georgia Institute of Technology
+    institution: Georgia Institute of Technology 
     year: 2018
   - course: Master in Urban Planning
-    institution: University of Illinois at Urbana Champaign
+    institution: University of Illinois at Urbana Champaign 
     year: 2012
   - course: MEng in Architecture
     institution: Seoul National University
