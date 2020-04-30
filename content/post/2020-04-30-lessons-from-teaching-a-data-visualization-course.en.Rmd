@@ -21,6 +21,11 @@ draft: true
 outlines 
 
 ### what the course was about 
+- contents
+- syllabus (maybe refer back to course post)
+- final schedules 
+- format, 3 day in a row, intense 16 hour course 
+- 20 students enrolled + 2 auditing 
 
 ### how it went 
 - what went well & what did not go well
@@ -30,4 +35,8 @@ outlines
 ### future plans 
 
 ### ideas for further exploration 
+- students' group 
 - any suggestions? shoot me an email at yongsung.lee@gatech.edu 
+
+### resources 
+- 
