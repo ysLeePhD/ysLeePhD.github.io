@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include emerging mobility services & technology, urban informatics & machine learning, and sustainable development. 
+bio: My research interests include emerging mobility services & technology, urban informatics & predictive algorithms, and sustainable development. 
 education:
   courses:
   - course: PhD in City & Regional Planning

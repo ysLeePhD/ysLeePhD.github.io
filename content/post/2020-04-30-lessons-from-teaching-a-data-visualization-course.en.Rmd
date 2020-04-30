@@ -1,0 +1,33 @@
+---
+title: Lessons from teaching a data visualization course
+author: Yongsung Lee
+date: '2020-04-30'
+slug: lessons-from-teaching-a-data-visualization-course
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-04-30T09:54:14-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+draft: true
+---
+
+outlines 
+
+### what the course was about 
+
+### how it went 
+- what went well & what did not go well
+
+### reflection 
+
+### future plans 
+
+### ideas for further exploration 
+- any suggestions? shoot me an email at yongsung.lee@gatech.edu 
