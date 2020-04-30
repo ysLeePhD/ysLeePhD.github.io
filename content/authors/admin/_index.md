@@ -19,7 +19,8 @@ education:
 email: "mailto:yongsung.lee@gatech.edu"
 interests:
 - Emerging Mobility Services & Technology
-- Open-source GIS
+- Urban Informatics
+- Geospatial Data Science
 - Sustainable Development
 organizations:
 - name: Georgia Institute of Technology
