@@ -49,4 +49,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoc in the School of Civil & Environmental Engineering at Georgia Tech. My research focuses on emerging mobility services and technology, and I am particularly interested in their implications to environmental sustainability and social equity. I have rich experience in teaching GIS and quantitiatve method courses, and recently I taught [open-source GIS with `R`](https://rpubs.com/spring19cp6521) and [data visualization with Tableau](https://public.tableau.com/profile/yongsung.lee#!/).
+I am a postdoc in the School of Civil & Environmental Engineering at Georgia Tech. My research focuses on emerging mobility services and technology, and I am particularly interested in their implications to environmental sustainability and social equity. I have rich experience in teaching GIS and quantitative method courses, and recently I taught [open-source GIS with `R`](https://rpubs.com/spring19cp6521) and [data visualization with Tableau](https://public.tableau.com/profile/yongsung.lee#!/).
