@@ -4,3 +4,4 @@
 .Ruserdata
 public/ # if using Netlify
 _deleted/
+_inspiration/
